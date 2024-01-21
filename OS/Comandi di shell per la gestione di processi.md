@@ -1,0 +1,6 @@
+- - -
+- permettono di eseguire processi in maniera sequenziali
+- tali processi vengono eseguiti in maniere _foreground_ 
+- top -> indica tutti i processi in esecuzione 
+- kill-> invia un segnale ad un processo 
+- tipo di comando utili è kill -9 myProgram indica la terminazione di un programma
